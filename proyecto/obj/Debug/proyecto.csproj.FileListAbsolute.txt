@@ -1,0 +1,8 @@
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\josue\Desktop\proyecto\proyecto\proyecto\obj\Debug\proyecto.pdb
